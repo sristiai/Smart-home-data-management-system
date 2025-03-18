@@ -2,7 +2,7 @@
 ---
 
 **Author:** Sristi Bhadani  
-**Supervisor:** Prof. Dr. Michael Wiehl and Prof. Dr.Gerald Pirkl
+**Supervisor:** Prof. Dr. Michael Wiehl and Prof. Dr.Gerald Pirkl                         
 **Institution:** Ostbayerische Technische Hochschule Amberg-Weiden  
 **Department:** Electrical Engineering, Media, and Computer Science  
 **Date:** July 3, 2024  
